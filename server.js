@@ -4,6 +4,18 @@ const path = require('path')
 require('./mongoDB/db')
 //引入集合
 const userModle = require('./mongoDB/cellctions/user')
+// 首页
+const catmovie = require('./datas/Home/catmovie.json')
+const guesthouse = require('./datas/Home/guesthouse.json')
+const citys = require('./datas/common/city.json')
+//常子瑞
+const like = require('./datas/zirui/like.json')
+const merchant = require('./datas/zirui/merchant.json')
+const order = require('./datas/zirui/order.json')
+const persnal = require('./datas/zirui/persnal.json')
+const buying = require('./datas/zirui/buying.json')
+//王玉茹
+const getPoiList = require('./datas/yuru/getPoiList.json')
 const app = new express()
 //暴露静态资源文件
 app.use(express.static(path.resolve(__dirname,'public')))
@@ -56,7 +68,6 @@ app.post('/login',(req,res)=>{
 //注册请求
 app.post('/register',async(req,res)=>{
     let {username,password} = req.body;
-        console.log(username,password);
         try {
             let userInfo = await userModle.findOne({username})
             if(userInfo){
@@ -80,8 +91,42 @@ app.post('/register',async(req,res)=>{
             
         }
     })
-
-
-    app.listen('3000',()=>{
+//请求猫眼电影数据
+app.get('/catmovie',(req,res)=>{
+  res.status(200).json(catmovie)
+})
+//民宿guesthouse
+app.get('/guesthouse',(req,res)=>{
+  res.status(200).json(guesthouse)
+})
+//获取城市 /citys
+app.get('/citys',(req,res)=>{
+  res.status(200).json(citys)
+})
+//猜你喜欢
+app.get('/like',(req,res)=>{
+  res.status(200).json(like)
+})
+//收藏商家
+app.get('/merchant',(req,res)=>{
+  res.status(200).json(merchant)
+})
+//全部订单
+app.get('/order',(req,res)=>{
+  res.status(200).json(order)
+})
+//个人信息
+app.get('/persnal',(req,res)=>{
+  res.status(200).json(persnal)
+})
+//收藏团购
+app.get('/buying',(req,res)=>{
+  res.status(200).json(buying)
+})
+//美食
+app.get('/getpoilist',(req,res)=>{
+  res.status(200).json(getPoiList)
+})
+app.listen('3000',()=>{
   console.log('服务以启动');
 })

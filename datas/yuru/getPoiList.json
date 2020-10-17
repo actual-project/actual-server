@@ -1,0 +1,298 @@
+{
+    "status": 200,
+    "data": {
+    "totalCounts": 1000,
+    "poiInfos": [
+    {
+    "poiId": 4330598,
+    "frontImg": "https://img.meituan.net/600.600/msmerchant/d26f06520152ba24b2a8e65b88b0f08884519.jpg",
+    "title": "诚铭记老成都名小吃（世纪金源店）",
+    "avgScore": 5,
+    "allCommentNum": 21139,
+    "address": "包河区徽州大道5566号世纪金源购物中心C区4层（徽州大道与紫云路交口）",
+    "avgPrice": 20,
+    "dealList": [
+    {
+    "title": "10元代金券1张，可叠加",
+    "price": 9.5,
+    "soldCounts": 235095
+    }
+    ],
+    "hasAds": false,
+    "adsClickUrl": "",
+    "adsShowUrl": ""
+    },
+    {
+    "poiId": 87847704,
+    "frontImg": "https://img.meituan.net/600.600/msmerchant/ec456732f71b5e148b38df98d14aee242728585.png",
+    "title": "浪里寻·臻牛养生牛肉火锅（天鹅湖银泰城店）",
+    "avgScore": 5,
+    "allCommentNum": 10126,
+    "address": "政务区潜山路190号天鹅湖银泰城B1层",
+    "avgPrice": 58,
+    "dealList": [
+    {
+    "title": "100元代金券1张，可叠加",
+    "price": 49.9,
+    "soldCounts": 166150
+    }
+    ],
+    "hasAds": false,
+    "adsClickUrl": "",
+    "adsShowUrl": ""
+    },
+    {
+    "poiId": 41684268,
+    "frontImg": "https://img.meituan.net/600.600/msmerchant/9b2c5bf9e5e3371ff28f839fb898852444585.jpg",
+    "title": "黯然销魂面",
+    "avgScore": 3.9,
+    "allCommentNum": 20400,
+    "address": "庐阳区淮河路新时代广场D座一层4号",
+    "avgPrice": 13,
+    "dealList": [
+    {
+    "title": "50元代金券1张，可叠加",
+    "price": 42.5,
+    "soldCounts": 66
+    }
+    ],
+    "hasAds": false,
+    "adsClickUrl": "",
+    "adsShowUrl": ""
+    },
+    {
+    "poiId": 1576542,
+    "frontImg": "http://p0.meituan.net/600.600/bbia/75154cf21e3825e0ff5ffa68fb6c2ddf1258580.jpg",
+    "title": "玛萨咔咔泰国美食（之心城店）",
+    "avgScore": 4.1,
+    "allCommentNum": 13614,
+    "address": "蜀山区长江西路189号之心城室内步行街6层",
+    "avgPrice": 64,
+    "dealList": [
+    {
+    "title": "50元代金券1张，可叠加",
+    "price": 45,
+    "soldCounts": 89232
+    }
+    ],
+    "hasAds": false,
+    "adsClickUrl": "",
+    "adsShowUrl": ""
+    },
+    {
+    "poiId": 41744422,
+    "frontImg": "http://p0.meituan.net/600.600/deal/ffa8e4ce602cd92be07416e8c826e3c5453615.jpg",
+    "title": "韩釜宫海鲜自助烤肉&火锅（四里河店）",
+    "avgScore": 3.4,
+    "allCommentNum": 8868,
+    "address": "庐阳区北二环路与四里河路交叉口明发商业广场二楼（中国工商银行旁）",
+    "avgPrice": 44,
+    "dealList": [
+    {
+    "title": "59元单人自助晚餐代金券1张",
+    "price": 54.9,
+    "soldCounts": 3045
+    }
+    ],
+    "hasAds": false,
+    "adsClickUrl": "",
+    "adsShowUrl": ""
+    },
+    {
+    "poiId": 6531561,
+    "frontImg": "https://img.meituan.net/600.600/msmerchant/3adedd1674c66f43d6d0d00493786a70272891.jpg",
+    "title": "咕嘟草帽鱼（包河万达广场创始店）",
+    "avgScore": 4.2,
+    "allCommentNum": 7085,
+    "address": "包河区万达室外步行街2楼",
+    "avgPrice": 90,
+    "dealList": [
+    {
+    "title": "50元代金券1张，可叠加",
+    "price": 45.9,
+    "soldCounts": 107695
+    }
+    ],
+    "hasAds": false,
+    "adsClickUrl": "",
+    "adsShowUrl": ""
+    },
+    {
+    "poiId": 2585150,
+    "frontImg": "http://p0.meituan.net/600.600/bbia/2b9b599f8bb615cc61519f52e43489da99355.jpg",
+    "title": "黯然销魂面馆",
+    "avgScore": 4,
+    "allCommentNum": 17603,
+    "address": "庐阳区淮河路新时代广场D座一层4号",
+    "avgPrice": 12,
+    "dealList": [
+    {
+    "title": "20元代金券1张，可叠加",
+    "price": 18,
+    "soldCounts": 325
+    }
+    ],
+    "hasAds": false,
+    "adsClickUrl": "",
+    "adsShowUrl": ""
+    },
+    {
+    "poiId": 5272342,
+    "frontImg": "http://p1.meituan.net/600.600/bbia/96cfd310c4cf249494beede24108445881330.jpg",
+    "title": "江南小镇无锡小笼包（宝业店）",
+    "avgScore": 4.1,
+    "allCommentNum": 13990,
+    "address": "瑶海区长江东路504号宝业东城广场3楼",
+    "avgPrice": 15,
+    "dealList": [
+    {
+    "title": "10元代金券1张，可叠加",
+    "price": 9.5,
+    "soldCounts": 420882
+    }
+    ],
+    "hasAds": false,
+    "adsClickUrl": "",
+    "adsShowUrl": ""
+    },
+    {
+    "poiId": 5258684,
+    "frontImg": "http://p1.meituan.net/600.600/mogu/dea8daddcc21f05203f31586f00b73ed52810.jpg",
+    "title": "菊上料理（天鹅湖银泰店）",
+    "avgScore": 4.3,
+    "allCommentNum": 6370,
+    "address": "蜀山区潜山路与南二环交叉口天鹅湖银泰城3层344-1号",
+    "avgPrice": 178,
+    "dealList": [
+    {
+    "title": "248元自助晚餐代金券1张",
+    "price": 238,
+    "soldCounts": 3910
+    },
+    {
+    "title": "238元自助午餐代金券1张",
+    "price": 218,
+    "soldCounts": 3255
+    }
+    ],
+    "hasAds": false,
+    "adsClickUrl": "",
+    "adsShowUrl": ""
+    },
+    {
+    "poiId": 232865,
+    "frontImg": "http://p1.meituan.net/600.600/bbia/3a16a39934f517542af263fda5aace7e142596.jpg",
+    "title": "汉拿山（包河万达店）",
+    "avgScore": 3.7,
+    "allCommentNum": 8374,
+    "address": "包河区芜湖路万达广场室内3楼",
+    "avgPrice": 94,
+    "dealList": [
+    {
+    "title": "100元代金券1张，可叠加",
+    "price": 91,
+    "soldCounts": 11542
+    }
+    ],
+    "hasAds": false,
+    "adsClickUrl": "",
+    "adsShowUrl": ""
+    },
+    {
+    "poiId": 40192409,
+    "frontImg": "http://p0.meituan.net/600.600/biztone/7fd108ecc946974c097be747aeeecdc19476731.jpg",
+    "title": "魔石泡泡鱼（旺城大厦店）",
+    "avgScore": 4.1,
+    "allCommentNum": 11952,
+    "address": "蜀山区长江西路与官亭路交口旺城大厦三楼",
+    "avgPrice": 51,
+    "dealList": [
+    {
+    "title": "50元代金券1张，可叠加",
+    "price": 42.5,
+    "soldCounts": 51133
+    }
+    ],
+    "hasAds": false,
+    "adsClickUrl": "",
+    "adsShowUrl": ""
+    },
+    {
+    "poiId": 5825644,
+    "frontImg": "https://img.meituan.net/600.600/msmerchant/fbef04662257e0a69ccf57606803b8ed161174.jpg",
+    "title": "闽南海鲜面",
+    "avgScore": 4.8,
+    "allCommentNum": 6089,
+    "address": "庐阳区宿州路与义仓巷交叉口义仓小区18幢103室",
+    "avgPrice": 19,
+    "dealList": [
+    {
+    "title": "20元代金券1张，可叠加",
+    "price": 18,
+    "soldCounts": 10253
+    }
+    ],
+    "hasAds": false,
+    "adsClickUrl": "",
+    "adsShowUrl": ""
+    },
+    {
+    "poiId": 40461776,
+    "frontImg": "http://p1.meituan.net/600.600/deal/c4a1184844cf4334db21711d82621023196636.jpg",
+    "title": "小平爆龙花甲",
+    "avgScore": 4.2,
+    "allCommentNum": 13064,
+    "address": "庐阳区淮河路步行街李府对面巷内（第六婚纱摄影旁边的巷子）",
+    "avgPrice": 11,
+    "dealList": [
+    {
+    "title": "30元花甲米线代金券1张，可叠加",
+    "price": 27,
+    "soldCounts": 741
+    }
+    ],
+    "hasAds": false,
+    "adsClickUrl": "",
+    "adsShowUrl": ""
+    },
+    {
+    "poiId": 41463345,
+    "frontImg": "http://p0.meituan.net/600.600/mogu/6b65f0cf03c190ba50c1bdd138a47d3964878.jpg",
+    "title": "烫乐麻辣烫（华润五彩城店）",
+    "avgScore": 3.9,
+    "allCommentNum": 3270,
+    "address": "蜀山区望江西路123号华润五彩城购物中心4层",
+    "avgPrice": 19,
+    "dealList": [
+    {
+    "title": "10元代金券1张，可叠加",
+    "price": 8.5,
+    "soldCounts": 595103
+    }
+    ],
+    "hasAds": false,
+    "adsClickUrl": "",
+    "adsShowUrl": ""
+    },
+    {
+    "poiId": 2575491,
+    "frontImg": "https://img.meituan.net/600.600/msmerchant/61533e0a71a3ec2c65db054f782eaa30213735.jpg",
+    "title": "茉莉餐厅（天鹅湖万达店）",
+    "avgScore": 4.2,
+    "allCommentNum": 1314,
+    "address": "蜀山区南二环路天鹅湖万达广场内街3楼（近怀宁路）",
+    "avgPrice": 63,
+    "dealList": [
+    {
+    "title": "100元代金券1张，可叠加",
+    "price": 94,
+    "soldCounts": 11602
+    }
+    ],
+    "hasAds": false,
+    "adsClickUrl": "",
+    "adsShowUrl": ""
+    }
+    ]
+    }
+    }

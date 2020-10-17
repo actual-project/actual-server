@@ -1,0 +1,288 @@
+{
+    "status": 200,
+    "message": "成功",
+    "data":[
+        {
+        "itemId": "158907640",
+        "title": "晓寿司（望京soho店）",
+        "imgUrl": "http://p1.meituan.net/w.h/bbia/f58fafc0be2bc3a69dfcac20260888c2201000.jpg",
+        "score": "5.0",
+        "consumeNum": null,
+        "areaName": "望京",
+        "lowPrice": "98.0",
+        "saleNum": null,
+        "commentNum": 2151,
+        "detailUrl": "",
+        "firstCate": [
+        1,
+        20632,
+        20426,
+        20557
+        ],
+        "avgPrice": 64
+        },
+        {
+        "itemId": "159279615",
+        "title": "木北护肤造型（四路通店）",
+        "imgUrl": "https://p0.meituan.net/w.h/dpmerchantpic/b4f08dbd06a9f02c6aed7ab24b09acbd129481.jpg",
+        "score": "4.3",
+        "consumeNum": null,
+        "areaName": "洋桥/木樨园",
+        "lowPrice": "58.0",
+        "saleNum": null,
+        "commentNum": 167,
+        "detailUrl": "",
+        "firstCate": [
+        20611,
+        22,
+        20630,
+        20426
+        ],
+        "avgPrice": 191
+        },
+        {
+        "itemId": "75685001",
+        "title": "火炉火烤肉·芝士排骨（西红门荟聚购物中心店）",
+        "imgUrl": "http://p0.meituan.net/w.h/bbia/b446baf08b5e82f5d60ee90f49eb13c8476050.jpg",
+        "score": "4.2",
+        "consumeNum": null,
+        "areaName": "西红门",
+        "lowPrice": "218.0",
+        "saleNum": null,
+        "commentNum": 5527,
+        "detailUrl": "",
+        "firstCate": [
+        1,
+        20632,
+        20426,
+        20557
+        ],
+        "avgPrice": 83
+        },
+        {
+        "itemId": "2569891",
+        "title": "coao初妆美甲美睫（SOHO尚都店）",
+        "imgUrl": "http://p1.meituan.net/w.h/shopmainpic/93e24cbf9367a7b9fb4a4b07a73a78a7186663.jpg",
+        "score": "5.0",
+        "consumeNum": null,
+        "areaName": "朝外大街/世贸天阶",
+        "lowPrice": "108.0",
+        "saleNum": null,
+        "commentNum": 1063,
+        "detailUrl": "",
+        "firstCate": [
+        20611,
+        22,
+        20630,
+        20426
+        ],
+        "avgPrice": 104
+        },
+        {
+        "itemId": "102024596",
+        "title": "芦月轩羊蝎子（杨闸店）",
+        "imgUrl": "http://p1.meituan.net/w.h/mogu/cb6e5ed585e058d2862811174636e092223079.jpg",
+        "score": "5.0",
+        "consumeNum": null,
+        "areaName": "管庄",
+        "lowPrice": "89.9",
+        "saleNum": null,
+        "commentNum": 1526,
+        "detailUrl": "",
+        "firstCate": [
+        1,
+        20632,
+        20426
+        ],
+        "avgPrice": 58
+        },
+        {
+        "itemId": "178138654",
+        "title": "屯老二农家铁锅炖（松园店）",
+        "imgUrl": "http://p1.meituan.net/w.h/bbia/66fd7b3ea9b59d4687b42e07a514013593187.jpg",
+        "score": "5.0",
+        "consumeNum": null,
+        "areaName": "昌平镇",
+        "lowPrice": "88.0",
+        "saleNum": null,
+        "commentNum": 890,
+        "detailUrl": "",
+        "firstCate": [
+        1,
+        20632,
+        20426,
+        20557
+        ],
+        "avgPrice": 78
+        },
+        {
+        "itemId": "178850602",
+        "title": "华莱士炸鸡汉堡（石油大学店）",
+        "imgUrl": "http://p0.meituan.net/w.h/bbia/062a186c23cfb9ebe34e95ca235ff660535199.jpg",
+        "score": "4.1",
+        "consumeNum": null,
+        "areaName": "昌平镇",
+        "lowPrice": "18.0",
+        "saleNum": null,
+        "commentNum": 402,
+        "detailUrl": "",
+        "firstCate": [
+        1,
+        20426,
+        20557
+        ],
+        "avgPrice": 26
+        },
+        {
+        "itemId": "288902",
+        "title": "便宜坊烤鸭店（富丰路店）",
+        "imgUrl": "http://p1.meituan.net/w.h/mogu/5bc91a38c1aca2cb6e8eb22a0381d6cd15167.jpg",
+        "score": "4.0",
+        "consumeNum": null,
+        "areaName": "看丹桥/新华街",
+        "lowPrice": "92.0",
+        "saleNum": null,
+        "commentNum": 2007,
+        "detailUrl": "",
+        "firstCate": [
+        1,
+        20632,
+        20426,
+        20557
+        ],
+        "avgPrice": 99
+        },
+        {
+        "itemId": "291334",
+        "title": "味多美（紫金数码店）",
+        "imgUrl": "https://img.meituan.net/w.h/msmerchant/955540a4a29217a81321ca92639e2014119113.jpg",
+        "score": "4.4",
+        "consumeNum": null,
+        "areaName": "知春路",
+        "lowPrice": "2.5",
+        "saleNum": null,
+        "commentNum": 20,
+        "detailUrl": "",
+        "firstCate": [
+        1,
+        20426,
+        20557
+        ],
+        "avgPrice": 32
+        },
+        {
+        "itemId": "1583955055",
+        "title": "米娜木美造型（武夷花园店）",
+        "imgUrl": "https://p1.meituan.net/w.h/dpmerchantpic/ce83e55d0997ba52558301d546d8779a92946.jpg",
+        "score": "5.0",
+        "consumeNum": null,
+        "areaName": "武夷花园",
+        "lowPrice": "28.0",
+        "saleNum": null,
+        "commentNum": 62,
+        "detailUrl": "",
+        "firstCate": [
+        20611,
+        22,
+        20630,
+        20426
+        ],
+        "avgPrice": 0
+        },
+        {
+        "itemId": "194785564",
+        "title": "分米鸡DM Chicken（喜隆多店）",
+        "imgUrl": "https://img.meituan.net/w.h/msmerchant/4a953fe54ad2c3cef9547fc41ba8df9193526.jpg",
+        "score": "5.0",
+        "consumeNum": null,
+        "areaName": "苹果园",
+        "lowPrice": "178.0",
+        "saleNum": null,
+        "commentNum": 810,
+        "detailUrl": "",
+        "firstCate": [
+        1,
+        20632,
+        20426,
+        20557
+        ],
+        "avgPrice": 100
+        },
+        {
+        "itemId": "163989316",
+        "title": "逸丝风尚yesfashion造型（永辉店）",
+        "imgUrl": "https://p0.meituan.net/w.h/dpmerchantpic/254142f514898c95cd3c4f5667cd7085563681.jpg",
+        "score": "5.0",
+        "consumeNum": null,
+        "areaName": "回龙观",
+        "lowPrice": "59.0",
+        "saleNum": null,
+        "commentNum": 392,
+        "detailUrl": "",
+        "firstCate": [
+        20611,
+        22,
+        20630,
+        20426
+        ],
+        "avgPrice": 318
+        },
+        {
+        "itemId": "74657522",
+        "title": "宽板凳老灶火锅（古城店）",
+        "imgUrl": "https://img.meituan.net/w.h/msmerchant/9e4e852d82b8749671f0fcacc7f79a38185869.jpg",
+        "score": "4.6",
+        "consumeNum": null,
+        "areaName": "古城/八角",
+        "lowPrice": "89.9",
+        "saleNum": null,
+        "commentNum": 834,
+        "detailUrl": "",
+        "firstCate": [
+        1,
+        20632,
+        20426,
+        20557
+        ],
+        "avgPrice": 88
+        },
+        {
+        "itemId": "97070024",
+        "title": "A MORE高端极致羽毛接发",
+        "imgUrl": "https://p0.meituan.net/w.h/merchantpic/a23d4ee7af3ddf00de464ac0fa91447a126404.jpg",
+        "score": "4.7",
+        "consumeNum": null,
+        "areaName": "青年路",
+        "lowPrice": "200.0",
+        "saleNum": null,
+        "commentNum": 182,
+        "detailUrl": "",
+        "firstCate": [
+        20611,
+        22,
+        20630,
+        20426
+        ],
+        "avgPrice": 749
+        },
+        {
+        "itemId": "288780",
+        "title": "老诚一锅（东大桥店）",
+        "imgUrl": "http://p0.meituan.net/w.h/deal/d3733ff764bdba8e21a60077068145e9266090.jpg",
+        "score": "4.2",
+        "consumeNum": null,
+        "areaName": "朝外大街/世贸天阶",
+        "lowPrice": "90.0",
+        "saleNum": null,
+        "commentNum": 2669,
+        "detailUrl": "",
+        "firstCate": [
+        1,
+        20632,
+        20426,
+        20557
+        ],
+        "avgPrice": 69
+        }
+        ]
+}

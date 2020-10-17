@@ -1,0 +1,98 @@
+{
+"status": 200,
+"message": "success",
+"data": {
+"blockname": "我的收藏",
+"display": true,
+"count": 2,
+"list": [
+{
+"type": "deal",
+"dealmodel": {
+"id": 50877068,
+"title": "双人餐，提供免费WiFi，免预约",
+"subtitle": "",
+"mlls": "39.750091,116.336531",
+"price": 108,
+"imgurl": "http://p1.meituan.net/w.h/deal/403940d9f7d825cf81996a748eb56ec058688.jpg@0_95_702_425a%7C388h_640w_2e_90Q",
+"campaigntag": "",
+"iurl": "",
+"channel": "food",
+"optionalattrs": {
+"11": "{\"endDate\":\"2020-01-29,2020-05-05\",\"startDate\":\"2020-01-22,2020-05-02\",\"useDay\":\"1\"}",
+"81": "双人餐"
+},
+"dtype": 0,
+"showType": "normal",
+"ctype": 0,
+"status": 0,
+"end": 1603727999,
+"pricecalendar": [
+{
+"canbuyprice": -1,
+"buyprice": 0,
+"dealid": 50877068,
+"price": 108,
+"range": [],
+"starttime": 0,
+"endtime": 0,
+"id": 0,
+"type": 1,
+"desc": "平日"
+}
+],
+"value": 167,
+"brandname": "牛犇炭火烤肉",
+"nobooking": 0,
+"cate": "1",
+"useNum": 0,
+"uniqueType": 20
+}
+},
+{
+"type": "deal",
+"dealmodel": {
+"id": 53001900,
+"title": "纸包鱼锅，建议2-3人使用，免预约",
+"subtitle": "",
+"mlls": "39.737447,116.341823",
+"price": 88,
+"imgurl": "http://p0.meituan.net/w.h/deal/6a7475dd5917cff789b73a0e6aa2cc0d560177.png@0_0_1080_810a%7C388h_640w_2e_90Q",
+"campaigntag": "",
+"iurl": "",
+"channel": "food",
+"optionalattrs": {
+"11": "{\"endDate\":\"2020-01-24\",\"startDate\":\"2020-01-19\",\"useDay\":\"1\"}",
+"81": "纸包鱼锅"
+},
+"dtype": 0,
+"showType": "normal",
+"ctype": 0,
+"status": 0,
+"end": 1605887999,
+"pricecalendar": [
+{
+"canbuyprice": -1,
+"buyprice": 0,
+"dealid": 53001900,
+"price": 88,
+"range": [],
+"starttime": 0,
+"endtime": 0,
+"id": 0,
+"type": 1,
+"desc": "平日"
+}
+],
+"value": 108,
+"brandname": "天竹渔村纸包鱼",
+"nobooking": 0,
+"cate": "1",
+"useNum": 0,
+"uniqueType": 20
+}
+}
+],
+"num": null
+}
+}
