@@ -1,0 +1,73 @@
+{
+    "status": 200,
+    "message": "成功",
+    "data":{
+        "nm":"巴渝老灶重庆火锅",
+        "address":"丰台区王佐镇新苑路南宫综合市场美食街10号-13号（热火羊腿烧烤海鲜隔壁）",
+        "phone":13269996799,
+        "time":"周一至周日 10:00-14:30 17:30-22:30",
+        "score":4.5,
+        "meanprice":81,
+        "combo":[
+            {
+                "id":1001,
+                "name":"特惠单人套餐，包间免费",
+                "title":"1款堂食套餐",
+                "sold":4,
+                "price":39,
+                "shopprice":84,
+                "url":"https://p0.meituan.net/208.126/deal/54d0a5f311c4d2b72adb1d2e3dd08c5a148425.jpg@100w_100h_1e_1c"
+            },
+            {
+                "id":1002,
+                "name":"85元 代100元代金券",
+                "title":"1张代金券",
+                "sold":13,
+                "price":85,
+                "shopprice":100
+            }
+        ],
+        "recommend":[
+            {
+                "id":2001,
+                "name":"嫩牛肉",
+                "price":46,
+                "url":"https://p0.meituan.net/bbia/0ec0de7ef37c1a168dfbf3f8963e6e0a136207.jpg@130w_130h_1e_1c"
+            },
+            {
+                "id":2002,
+                "name":"经典鲜毛肚",
+                "price":68,
+                "url":"https://qcloud.dpfile.com/pc/iH2Q_ghdIifn46PdF43ZUJ1AF58PU9lOLxjwq7N94UvV8fSz-_2CTLWjsCKTvOSu5g_3Oo7Z9EXqcoVvW9arsw.jpg"
+            },
+            {
+                "id":2003,
+                "name":"重庆牛油火锅",
+                "price":45,
+                "url":"fhttps://qcloud.dpfile.com/pc/y5qo-5DAqMUndthHYDRnBvyocJukrd_cEb9XRwdH_IoGuEGVW4L3mx2SmXf5pwCL5g_3Oo7Z9EXqcoVvW9arsw.jpg"
+            },
+            {
+                "id":2004,
+                "name":"鲜鸭血",
+                "price":12,
+                "url":"https://qcloud.dpfile.com/pc/ygoDL_HY35nD_vRf5En0wkkgm0Mwy1ATghLkJWSzmBOLMmJht5F0gTdDjsvhhy_J5g_3Oo7Z9EXqcoVvW9arsw.jpg"
+            },
+            {
+                "id":2005,
+                "name":"小料",
+                "price":9,
+                "url":"https://qcloud.dpfile.com/pc/jOjavHriqOjYctJFXGaCseKUUrEU3CiIegHd1GMyQrJxKYZcnViNRKZAW9Ya18jD5g_3Oo7Z9EXqcoVvW9arsw.jpg"
+            },
+            {
+                "id":2006,
+                "name":"猪脑花",
+                "price":12,
+                "url":"https://p0.meituan.net/bbia/0ec0de7ef37c1a168dfbf3f8963e6e0a136207.jpg@130w_130h_1e_1c"
+            }
+        ],
+        "recommend2":["重庆鸳鸯锅","鲜鸭肠","肥羊卷","虾滑","肥牛卷","梅林午餐肉","贡菜","麻酱","青菜",
+                        "拼盘西瓜","笋尖儿","宽粉","蔬菜拼盘","麻辣牛肉","碱水面条","娃娃菜","自助调料","耗儿鱼","蒜末香菇","冻豆腐","可乐鱼豆腐","金针菇","百叶","乾隆白菜",
+                        "小米辣椒","小葱花","鲜鹅肠","生菜","火锅","水饺","南瓜土豆片","脆皮肠","蟹肉棒","辛拉面大拌菜","干豆皮","白菜",
+                        "蜇头","辣椒油","米饭","酸梅汤","油麦菜","油豆皮"]
+    }
+}

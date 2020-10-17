@@ -4,289 +4,454 @@
     "totalCounts": 1000,
     "poiInfos": [
     {
-    "poiId": 4330598,
-    "frontImg": "https://img.meituan.net/600.600/msmerchant/d26f06520152ba24b2a8e65b88b0f08884519.jpg",
-    "title": "诚铭记老成都名小吃（世纪金源店）",
-    "avgScore": 5,
-    "allCommentNum": 21139,
-    "address": "包河区徽州大道5566号世纪金源购物中心C区4层（徽州大道与紫云路交口）",
-    "avgPrice": 20,
-    "dealList": [
-    {
-    "title": "10元代金券1张，可叠加",
-    "price": 9.5,
-    "soldCounts": 235095
-    }
-    ],
-    "hasAds": false,
-    "adsClickUrl": "",
-    "adsShowUrl": ""
-    },
-    {
-    "poiId": 87847704,
-    "frontImg": "https://img.meituan.net/600.600/msmerchant/ec456732f71b5e148b38df98d14aee242728585.png",
-    "title": "浪里寻·臻牛养生牛肉火锅（天鹅湖银泰城店）",
-    "avgScore": 5,
-    "allCommentNum": 10126,
-    "address": "政务区潜山路190号天鹅湖银泰城B1层",
-    "avgPrice": 58,
+    "poiId": 1816984255,
+    "frontImg": "https://img.meituan.net/msmerchant/b14ad37ac42c07628ce8a6730506ace9151853.jpg@600w_600h_1l",
+    "title": "巴渝老灶重庆火锅",
+    "avgScore": 4.5,
+    "allCommentNum": 12,
+    "address": "丰台区王佐镇新苑路南宫综合市场美食街10号-13号（热火羊腿烧烤海鲜隔壁）",
+    "avgPrice": 81,
     "dealList": [
     {
     "title": "100元代金券1张，可叠加",
-    "price": 49.9,
-    "soldCounts": 166150
+    "price": 85,
+    "soldCounts": 13
+    },
+    {
+    "title": "特惠单人套餐，包间免费",
+    "price": 39,
+    "soldCounts": 4
     }
     ],
-    "hasAds": false,
-    "adsClickUrl": "",
-    "adsShowUrl": ""
+    "hasAds": true,
+    "adsClickUrl": "https://mlog.dianping.com/api/cpv/billing?productid=74&display_id=50028&bg=0&pctr=0.10074683544303797&ad_cj=VVmBN-PcdwsE4XKYJL_RJNN-4FeEXvzir9frm5mEGhjE8OUZ7wCFO0vwgqsBIA3czjUv7OQ96yW42D26DDKD5i-BEWvVRcp0N8Y0XM9P2Vo8MkxHRLoVNNKgNXIEr2plPcp1gsQeIzxOtY7SUlbp&ad_ci=VVmBP-LMe0JMs2qMfLDWMYAjoQzdCNP5oom_npqcFRPA9OEd-FfTeBC3z_ZdKRqQnnFxsaRQt3Sji2fqCTmZ5iOBEWvVZMZqJqRsDsJI0l42MkZEV_xOb56lOHcGrmt2eMBck9Vgez5KsImCVVU&discount=1&mtlaunch_city_id=1&bu=28&category_id=110&pos=1&mtuser_id64=0&pcvr=1.565217391304348E-4&client_version=6.5.1&mtdpid=a7b65cfaec00402197c2.1602919016.1.0.0&bottomprice=1.0&user_agent=pc&launch_city_id=0&mtcategory_ids=1&sver=2&AdExpPath=3-56-112,3-169-830,3-140-565,3-50-100,3-164-792,3-227-1297,3-12-28,18-274-1575,3-201-1096&bottomfen=100&mtuser_id=0&adsCtrStrategy=SearchPcSearchBaseline&page_city_id=0&entityplat=2&ad_v=2&mtadshop_id=1816984255&mtpage_city_id=1&adidx=1&act=2&gather_index=1&item_index=-999",
+    "adsShowUrl": "https://mlog.dianping.com/api/cpv/action?productid=74&display_id=50028&bg=0&pctr=0.10074683544303797&ad_cj=VVmBN-PcdwsE4XKYJL_RJNN-4FeEXvzir9frm5mEGhjE8OUZ7wCFO0vwgqsBIA3czjUv7OQ96yW42D26DDKD5i-BEWvVRcp0N8Y0XM9P2Vo8MkxHRLoVNNKgNXIEr2plPcp1gsQeIzxOtY7SUlbp&ad_ci=VVmBP-LMe0JMs2qMfLDWMYAjoQzdCNP5oom_npqcFRPA9OEd-FfTeBC3z_ZdKRqQnnFxsaRQt3Sji2fqCTmZ5iOBEWvVZMZqJqRsDsJI0l42MkZEV_xOb56lOHcGrmt2eMBck9Vgez5KsImCVVU&discount=1&mtlaunch_city_id=1&bu=28&category_id=110&pos=1&mtuser_id64=0&pcvr=1.565217391304348E-4&client_version=6.5.1&mtdpid=a7b65cfaec00402197c2.1602919016.1.0.0&bottomprice=1.0&user_agent=pc&launch_city_id=0&mtcategory_ids=1&sver=2&AdExpPath=3-56-112,3-169-830,3-140-565,3-50-100,3-164-792,3-227-1297,3-12-28,18-274-1575,3-201-1096&bottomfen=100&mtuser_id=0&adsCtrStrategy=SearchPcSearchBaseline&page_city_id=0&entityplat=2&ad_v=2&mtadshop_id=1816984255&mtpage_city_id=1&adidx=1&act=3&gather_index=1&item_index=-999"
     },
     {
-    "poiId": 41684268,
-    "frontImg": "https://img.meituan.net/600.600/msmerchant/9b2c5bf9e5e3371ff28f839fb898852444585.jpg",
-    "title": "黯然销魂面",
-    "avgScore": 3.9,
-    "allCommentNum": 20400,
-    "address": "庐阳区淮河路新时代广场D座一层4号",
-    "avgPrice": 13,
-    "dealList": [
-    {
-    "title": "50元代金券1张，可叠加",
-    "price": 42.5,
-    "soldCounts": 66
-    }
-    ],
-    "hasAds": false,
-    "adsClickUrl": "",
-    "adsShowUrl": ""
-    },
-    {
-    "poiId": 1576542,
-    "frontImg": "http://p0.meituan.net/600.600/bbia/75154cf21e3825e0ff5ffa68fb6c2ddf1258580.jpg",
-    "title": "玛萨咔咔泰国美食（之心城店）",
-    "avgScore": 4.1,
-    "allCommentNum": 13614,
-    "address": "蜀山区长江西路189号之心城室内步行街6层",
-    "avgPrice": 64,
-    "dealList": [
-    {
-    "title": "50元代金券1张，可叠加",
-    "price": 45,
-    "soldCounts": 89232
-    }
-    ],
-    "hasAds": false,
-    "adsClickUrl": "",
-    "adsShowUrl": ""
-    },
-    {
-    "poiId": 41744422,
-    "frontImg": "http://p0.meituan.net/600.600/deal/ffa8e4ce602cd92be07416e8c826e3c5453615.jpg",
-    "title": "韩釜宫海鲜自助烤肉&火锅（四里河店）",
-    "avgScore": 3.4,
-    "allCommentNum": 8868,
-    "address": "庐阳区北二环路与四里河路交叉口明发商业广场二楼（中国工商银行旁）",
-    "avgPrice": 44,
-    "dealList": [
-    {
-    "title": "59元单人自助晚餐代金券1张",
-    "price": 54.9,
-    "soldCounts": 3045
-    }
-    ],
-    "hasAds": false,
-    "adsClickUrl": "",
-    "adsShowUrl": ""
-    },
-    {
-    "poiId": 6531561,
-    "frontImg": "https://img.meituan.net/600.600/msmerchant/3adedd1674c66f43d6d0d00493786a70272891.jpg",
-    "title": "咕嘟草帽鱼（包河万达广场创始店）",
-    "avgScore": 4.2,
-    "allCommentNum": 7085,
-    "address": "包河区万达室外步行街2楼",
-    "avgPrice": 90,
-    "dealList": [
-    {
-    "title": "50元代金券1张，可叠加",
-    "price": 45.9,
-    "soldCounts": 107695
-    }
-    ],
-    "hasAds": false,
-    "adsClickUrl": "",
-    "adsShowUrl": ""
-    },
-    {
-    "poiId": 2585150,
-    "frontImg": "http://p0.meituan.net/600.600/bbia/2b9b599f8bb615cc61519f52e43489da99355.jpg",
-    "title": "黯然销魂面馆",
-    "avgScore": 4,
-    "allCommentNum": 17603,
-    "address": "庐阳区淮河路新时代广场D座一层4号",
-    "avgPrice": 12,
-    "dealList": [
-    {
-    "title": "20元代金券1张，可叠加",
-    "price": 18,
-    "soldCounts": 325
-    }
-    ],
-    "hasAds": false,
-    "adsClickUrl": "",
-    "adsShowUrl": ""
-    },
-    {
-    "poiId": 5272342,
-    "frontImg": "http://p1.meituan.net/600.600/bbia/96cfd310c4cf249494beede24108445881330.jpg",
-    "title": "江南小镇无锡小笼包（宝业店）",
-    "avgScore": 4.1,
-    "allCommentNum": 13990,
-    "address": "瑶海区长江东路504号宝业东城广场3楼",
-    "avgPrice": 15,
-    "dealList": [
-    {
-    "title": "10元代金券1张，可叠加",
-    "price": 9.5,
-    "soldCounts": 420882
-    }
-    ],
-    "hasAds": false,
-    "adsClickUrl": "",
-    "adsShowUrl": ""
-    },
-    {
-    "poiId": 5258684,
-    "frontImg": "http://p1.meituan.net/600.600/mogu/dea8daddcc21f05203f31586f00b73ed52810.jpg",
-    "title": "菊上料理（天鹅湖银泰店）",
-    "avgScore": 4.3,
-    "allCommentNum": 6370,
-    "address": "蜀山区潜山路与南二环交叉口天鹅湖银泰城3层344-1号",
-    "avgPrice": 178,
-    "dealList": [
-    {
-    "title": "248元自助晚餐代金券1张",
-    "price": 238,
-    "soldCounts": 3910
-    },
-    {
-    "title": "238元自助午餐代金券1张",
-    "price": 218,
-    "soldCounts": 3255
-    }
-    ],
-    "hasAds": false,
-    "adsClickUrl": "",
-    "adsShowUrl": ""
-    },
-    {
-    "poiId": 232865,
-    "frontImg": "http://p1.meituan.net/600.600/bbia/3a16a39934f517542af263fda5aace7e142596.jpg",
-    "title": "汉拿山（包河万达店）",
-    "avgScore": 3.7,
-    "allCommentNum": 8374,
-    "address": "包河区芜湖路万达广场室内3楼",
-    "avgPrice": 94,
-    "dealList": [
-    {
-    "title": "100元代金券1张，可叠加",
-    "price": 91,
-    "soldCounts": 11542
-    }
-    ],
-    "hasAds": false,
-    "adsClickUrl": "",
-    "adsShowUrl": ""
-    },
-    {
-    "poiId": 40192409,
-    "frontImg": "http://p0.meituan.net/600.600/biztone/7fd108ecc946974c097be747aeeecdc19476731.jpg",
-    "title": "魔石泡泡鱼（旺城大厦店）",
-    "avgScore": 4.1,
-    "allCommentNum": 11952,
-    "address": "蜀山区长江西路与官亭路交口旺城大厦三楼",
-    "avgPrice": 51,
-    "dealList": [
-    {
-    "title": "50元代金券1张，可叠加",
-    "price": 42.5,
-    "soldCounts": 51133
-    }
-    ],
-    "hasAds": false,
-    "adsClickUrl": "",
-    "adsShowUrl": ""
-    },
-    {
-    "poiId": 5825644,
-    "frontImg": "https://img.meituan.net/600.600/msmerchant/fbef04662257e0a69ccf57606803b8ed161174.jpg",
-    "title": "闽南海鲜面",
-    "avgScore": 4.8,
-    "allCommentNum": 6089,
-    "address": "庐阳区宿州路与义仓巷交叉口义仓小区18幢103室",
-    "avgPrice": 19,
-    "dealList": [
-    {
-    "title": "20元代金券1张，可叠加",
-    "price": 18,
-    "soldCounts": 10253
-    }
-    ],
-    "hasAds": false,
-    "adsClickUrl": "",
-    "adsShowUrl": ""
-    },
-    {
-    "poiId": 40461776,
-    "frontImg": "http://p1.meituan.net/600.600/deal/c4a1184844cf4334db21711d82621023196636.jpg",
-    "title": "小平爆龙花甲",
-    "avgScore": 4.2,
-    "allCommentNum": 13064,
-    "address": "庐阳区淮河路步行街李府对面巷内（第六婚纱摄影旁边的巷子）",
-    "avgPrice": 11,
-    "dealList": [
-    {
-    "title": "30元花甲米线代金券1张，可叠加",
-    "price": 27,
-    "soldCounts": 741
-    }
-    ],
-    "hasAds": false,
-    "adsClickUrl": "",
-    "adsShowUrl": ""
-    },
-    {
-    "poiId": 41463345,
-    "frontImg": "http://p0.meituan.net/600.600/mogu/6b65f0cf03c190ba50c1bdd138a47d3964878.jpg",
-    "title": "烫乐麻辣烫（华润五彩城店）",
-    "avgScore": 3.9,
-    "allCommentNum": 3270,
-    "address": "蜀山区望江西路123号华润五彩城购物中心4层",
-    "avgPrice": 19,
-    "dealList": [
-    {
-    "title": "10元代金券1张，可叠加",
-    "price": 8.5,
-    "soldCounts": 595103
-    }
-    ],
-    "hasAds": false,
-    "adsClickUrl": "",
-    "adsShowUrl": ""
-    },
-    {
-    "poiId": 2575491,
-    "frontImg": "https://img.meituan.net/600.600/msmerchant/61533e0a71a3ec2c65db054f782eaa30213735.jpg",
-    "title": "茉莉餐厅（天鹅湖万达店）",
-    "avgScore": 4.2,
-    "allCommentNum": 1314,
-    "address": "蜀山区南二环路天鹅湖万达广场内街3楼（近怀宁路）",
+    "poiId": 1467844,
+    "frontImg": "https://img.meituan.net/600.600/msmerchant/a15b1e24ed8b36ebefde1c925ed6c875117239.jpg",
+    "title": "福口居（北太平庄店）",
+    "avgScore": 5,
+    "allCommentNum": 9856,
+    "address": "海淀区北太平庄北三环中路40号（近国美）",
     "avgPrice": 63,
     "dealList": [
     {
+    "title": "100元代金券1张，可叠加使用，非特价菜品通用",
+    "price": 90,
+    "soldCounts": 245672
+    },
+    {
+    "title": "福口居十人套餐，包间免费",
+    "price": 858,
+    "soldCounts": 95
+    },
+    {
     "title": "100元代金券1张，可叠加",
-    "price": 94,
-    "soldCounts": 11602
+    "price": 90,
+    "soldCounts": 12879
+    },
+    {
+    "title": "十人精品套餐，包间免费",
+    "price": 1028,
+    "soldCounts": 14
+    },
+    {
+    "title": "福口居双人套餐，提供免费WiFi",
+    "price": 136,
+    "soldCounts": 7544
+    },
+    {
+    "title": "福口居四人套餐，提供免费WiFi",
+    "price": 268,
+    "soldCounts": 4194
+    }
+    ],
+    "hasAds": false,
+    "adsClickUrl": "",
+    "adsShowUrl": ""
+    },
+    {
+    "poiId": 527645,
+    "frontImg": "https://img.meituan.net/600.600/msmerchant/2f33565a07d126032c9f29048e5b04ba80712.jpg",
+    "title": "米斯特比萨（通州九棵树店）",
+    "avgScore": 4.3,
+    "allCommentNum": 2205,
+    "address": "通州区轻轨九棵树站南侧瑞都国际北区商场1层（九棵树城铁站旁）",
+    "avgPrice": 83,
+    "dealList": [
+    {
+    "title": "100元代金券1张，可叠加",
+    "price": 95,
+    "soldCounts": 219199
+    },
+    {
+    "title": "米斯特必吃套餐，建议单人使用",
+    "price": 34.2,
+    "soldCounts": 5620
+    },
+    {
+    "title": "饮品2选2，提供免费WiFi",
+    "price": 24,
+    "soldCounts": 612
+    },
+    {
+    "title": "分享下午茶，建议2人使用",
+    "price": 41.5,
+    "soldCounts": 685
+    }
+    ],
+    "hasAds": false,
+    "adsClickUrl": "",
+    "adsShowUrl": ""
+    },
+    {
+    "poiId": 1548125661,
+    "frontImg": "https://img.meituan.net/180.180/msmerchant/cce36e434a6df88ece9767985ceac5d5318075.jpg@600w_600h_1l",
+    "title": "牛满当街边烤牛肉（三环新城店）",
+    "avgScore": 4.7,
+    "allCommentNum": 89,
+    "address": "丰台区丰桥路7号院8号楼B段1至2层09（丰台站C2口步行582米）",
+    "avgPrice": 83,
+    "dealList": [
+    {
+    "title": "欢乐家庭套餐，建议4人使用",
+    "price": 348,
+    "soldCounts": 182
+    },
+    {
+    "title": "精品套餐，建议2人使用",
+    "price": 179,
+    "soldCounts": 303
+    },
+    {
+    "title": "100元代金券1张，可叠加",
+    "price": 89,
+    "soldCounts": 441
+    },
+    {
+    "title": "100元代金券1张，可叠加2张",
+    "price": 79,
+    "soldCounts": 1021
+    },
+    {
+    "title": "双人情侣套餐，提供免费WiFi",
+    "price": 97,
+    "soldCounts": 3
+    }
+    ],
+    "hasAds": true,
+    "adsClickUrl": "https://mlog.dianping.com/api/cpv/billing?productid=74&display_id=50028&bg=0&pctr=0.10732450331125826&ad_cj=ouGSl727RxhQyPY0dfVl3Q9_6rLEChLhu5m9WIjyTnVzUGPQZKJjejEMA97e1vg3GogJcSi6zyCHaAaHbTok6cf_tXZHHaGPZEbc5hFlDIQvw4CBhmG65qYwLNy6HBiYMJG--cPSVKYYzqc8COrY&ad_ci=ouGSn7yrS1EYmu4gLfpjyF0jquydXD36tsfpUI7kTn53UGPZdvE5NmhMTYeI3O92T8JfJmnTkHWcO1rXZTE-7cj_tXZHPK2RdSSEtBxiB4Alw4qClSfhveo1Idm4HRmLdZuX6NKsXaROzvZvBO4&discount=1&mtlaunch_city_id=1&bu=2&category_id=34303&pos=1&mtuser_id64=0&pcvr=5.837837837837839E-4&client_version=6.5.1&mtdpid=a7b65cfaec00402197c2.1602919016.1.0.0&bottomprice=1.0&user_agent=pc&launch_city_id=0&mtcategory_ids=1&sver=2&AdExpPath=3-56-112,3-169-830,3-140-565,3-50-100,3-164-792,3-227-1297,3-12-28,18-274-1575,3-201-1096&bottomfen=100&mtuser_id=0&adsCtrStrategy=SearchPcSearchBaseline&page_city_id=0&entityplat=2&ad_v=2&mtadshop_id=1548125661&mtpage_city_id=1&adidx=4&act=2&gather_index=1&item_index=-999",
+    "adsShowUrl": "https://mlog.dianping.com/api/cpv/action?productid=74&display_id=50028&bg=0&pctr=0.10732450331125826&ad_cj=ouGSl727RxhQyPY0dfVl3Q9_6rLEChLhu5m9WIjyTnVzUGPQZKJjejEMA97e1vg3GogJcSi6zyCHaAaHbTok6cf_tXZHHaGPZEbc5hFlDIQvw4CBhmG65qYwLNy6HBiYMJG--cPSVKYYzqc8COrY&ad_ci=ouGSn7yrS1EYmu4gLfpjyF0jquydXD36tsfpUI7kTn53UGPZdvE5NmhMTYeI3O92T8JfJmnTkHWcO1rXZTE-7cj_tXZHPK2RdSSEtBxiB4Alw4qClSfhveo1Idm4HRmLdZuX6NKsXaROzvZvBO4&discount=1&mtlaunch_city_id=1&bu=2&category_id=34303&pos=1&mtuser_id64=0&pcvr=5.837837837837839E-4&client_version=6.5.1&mtdpid=a7b65cfaec00402197c2.1602919016.1.0.0&bottomprice=1.0&user_agent=pc&launch_city_id=0&mtcategory_ids=1&sver=2&AdExpPath=3-56-112,3-169-830,3-140-565,3-50-100,3-164-792,3-227-1297,3-12-28,18-274-1575,3-201-1096&bottomfen=100&mtuser_id=0&adsCtrStrategy=SearchPcSearchBaseline&page_city_id=0&entityplat=2&ad_v=2&mtadshop_id=1548125661&mtpage_city_id=1&adidx=4&act=3&gather_index=1&item_index=-999"
+    },
+    {
+    "poiId": 42715139,
+    "frontImg": "https://img.meituan.net/600.600/msmerchant/dc1d877358af37c369f1857470accd2938892.jpg",
+    "title": "鱼美人鱼烤鱼坊（鱼唐宴烤全鱼总店）",
+    "avgScore": 4.4,
+    "allCommentNum": 2022,
+    "address": "密云区行宫街锦华酒店北侧小路（近檀西路，原万庆福祥）",
+    "avgPrice": 57,
+    "dealList": [
+    {
+    "title": "100元代金券1张，可叠加",
+    "price": 92,
+    "soldCounts": 1498
+    },
+    {
+    "title": "尊享欢聚套餐，建议4-5人使用",
+    "price": 348,
+    "soldCounts": 44
+    },
+    {
+    "title": "超值双人嗨套餐，提供免费WiFi",
+    "price": 178,
+    "soldCounts": 131
+    }
+    ],
+    "hasAds": false,
+    "adsClickUrl": "",
+    "adsShowUrl": ""
+    },
+    {
+    "poiId": 40176329,
+    "frontImg": "http://p1.meituan.net/600.600/deal/eb7a3e0a2fc4d45506642f849be94c04113703.jpg",
+    "title": "好这口烤鱼专家",
+    "avgScore": 5,
+    "allCommentNum": 7192,
+    "address": "石景山区晋元庄路23号（首钢工学院对面）",
+    "avgPrice": 52,
+    "dealList": [
+    {
+    "title": "烤鱼4人餐，提供免费WiFi",
+    "price": 188,
+    "soldCounts": 11038
+    },
+    {
+    "title": "烤鱼4人餐，提供免费WiFi",
+    "price": 158,
+    "soldCounts": 10296
+    },
+    {
+    "title": "100元代金券1张，可叠加",
+    "price": 95,
+    "soldCounts": 1548
+    }
+    ],
+    "hasAds": false,
+    "adsClickUrl": "",
+    "adsShowUrl": ""
+    },
+    {
+    "poiId": 177837078,
+    "frontImg": "https://img.meituan.net/msmerchant/80430acf511c6dbd05c9ab0cb823c34639610.jpg@600w_600h_1l",
+    "title": "城都成串串香（创客小镇店）",
+    "avgScore": 5,
+    "allCommentNum": 541,
+    "address": "海淀区画眉山东路创客小镇底商112号",
+    "avgPrice": 86,
+    "dealList": [
+    {
+    "title": "100元代金券1张，可叠加",
+    "price": 86,
+    "soldCounts": 15350
+    }
+    ],
+    "hasAds": true,
+    "adsClickUrl": "https://mlog.dianping.com/api/cpv/billing?productid=74&display_id=50028&bg=0&pctr=0.07804882812500002&ad_cj=nDwIeYYjmWRa3sewQZgQPPQDh38V-12ujQePYoWNQud29RxNvU5DNgcOxXuHKlOKd6v4BPr-XIMsXMVhC-Wq2Bck5ytqw2TGoyaZwzVYUP_PEmdEJykd67hMPP9fvbb6JL5_1yK24C-dPWYg&ad_ci=nDwIcYczlS0SjN-kGZcZK6ZTzCVDrXK1gFnbboaVRvc7rVsMvVRoNhdKnSiKKVWPd6vpRqi3LogoXcVjE-W-k0Bmp3cokUjDqG-RxDNRV_TbRDswQVIY4bhPPPUPqbQ&discount=1&mtlaunch_city_id=1&bu=28&category_id=110&pos=1&mtuser_id64=0&pcvr=9.836065573770494E-5&client_version=6.5.1&mtdpid=a7b65cfaec00402197c2.1602919016.1.0.0&bottomprice=1.0&user_agent=pc&launch_city_id=0&mtcategory_ids=1&sver=2&AdExpPath=3-56-112,3-169-830,3-140-565,3-50-100,3-164-792,3-227-1297,3-12-28,18-274-1575,3-201-1096&bottomfen=100&mtuser_id=0&adsCtrStrategy=SearchPcSearchBaseline&page_city_id=0&entityplat=2&ad_v=2&mtadshop_id=177837078&mtpage_city_id=1&adidx=7&act=2&gather_index=1&item_index=-999",
+    "adsShowUrl": "https://mlog.dianping.com/api/cpv/action?productid=74&display_id=50028&bg=0&pctr=0.07804882812500002&ad_cj=nDwIeYYjmWRa3sewQZgQPPQDh38V-12ujQePYoWNQud29RxNvU5DNgcOxXuHKlOKd6v4BPr-XIMsXMVhC-Wq2Bck5ytqw2TGoyaZwzVYUP_PEmdEJykd67hMPP9fvbb6JL5_1yK24C-dPWYg&ad_ci=nDwIcYczlS0SjN-kGZcZK6ZTzCVDrXK1gFnbboaVRvc7rVsMvVRoNhdKnSiKKVWPd6vpRqi3LogoXcVjE-W-k0Bmp3cokUjDqG-RxDNRV_TbRDswQVIY4bhPPPUPqbQ&discount=1&mtlaunch_city_id=1&bu=28&category_id=110&pos=1&mtuser_id64=0&pcvr=9.836065573770494E-5&client_version=6.5.1&mtdpid=a7b65cfaec00402197c2.1602919016.1.0.0&bottomprice=1.0&user_agent=pc&launch_city_id=0&mtcategory_ids=1&sver=2&AdExpPath=3-56-112,3-169-830,3-140-565,3-50-100,3-164-792,3-227-1297,3-12-28,18-274-1575,3-201-1096&bottomfen=100&mtuser_id=0&adsCtrStrategy=SearchPcSearchBaseline&page_city_id=0&entityplat=2&ad_v=2&mtadshop_id=177837078&mtpage_city_id=1&adidx=7&act=3&gather_index=1&item_index=-999"
+    },
+    {
+    "poiId": 290852,
+    "frontImg": "https://qcloud.dpfile.com/pc/UvXCjDrPLbOwqsnUfsnBPdBic-UQvc1hmc0-7MAYptJu1YImhB8vlMrXiZlBkfyA5g_3Oo7Z9EXqcoVvW9arsw.jpg",
+    "title": "好伦哥比萨自助（天坛东门店）",
+    "avgScore": 4,
+    "allCommentNum": 12759,
+    "address": "东城区天坛东路天坛内东里1号",
+    "avgPrice": 52,
+    "dealList": [
+    {
+    "title": "单人自助午餐/晚餐通用，免费WiFi",
+    "price": 56,
+    "soldCounts": 142351
+    }
+    ],
+    "hasAds": false,
+    "adsClickUrl": "",
+    "adsShowUrl": ""
+    },
+    {
+    "poiId": 6376791,
+    "frontImg": "http://p1.meituan.net/600.600/deal/9b729d9daf702f0c8b34abcac110a539377663.jpg",
+    "title": "麻里麻里（融科店）",
+    "avgScore": 5,
+    "allCommentNum": 1698,
+    "address": "海淀区融科资讯中心C座B1层（搜狐媒体大厦）",
+    "avgPrice": 47,
+    "dealList": [
+    {
+    "title": "2人餐，提供免费WiFi",
+    "price": 78,
+    "soldCounts": 13919
+    },
+    {
+    "title": "3-4人餐，提供免费WiFi",
+    "price": 99,
+    "soldCounts": 9726
+    },
+    {
+    "title": "100元代金券1张，可叠加",
+    "price": 85,
+    "soldCounts": 500
+    }
+    ],
+    "hasAds": false,
+    "adsClickUrl": "",
+    "adsShowUrl": ""
+    },
+    {
+    "poiId": 637704073,
+    "frontImg": "https://img.meituan.net/msmerchant/76ddcb225ab610bfb9e82ce2c0ff7822647424.jpg@600w_600h_1l",
+    "title": "巴蜀龍炎卤味火锅",
+    "avgScore": 5,
+    "allCommentNum": 105,
+    "address": "海淀区上地东路颐泉汇底商东门",
+    "avgPrice": 87,
+    "dealList": [
+    {
+    "title": "超值双人餐，提供免费WiFi",
+    "price": 168,
+    "soldCounts": 288
+    },
+    {
+    "title": "100元代金券1张，可叠加5张",
+    "price": 79,
+    "soldCounts": 1006
+    },
+    {
+    "title": "中秋超值套餐，建议2人使用",
+    "price": 69,
+    "soldCounts": 49
+    },
+    {
+    "title": "幸福家庭套餐，建议4-5人使用",
+    "price": 269,
+    "soldCounts": 56
+    }
+    ],
+    "hasAds": true,
+    "adsClickUrl": "https://mlog.dianping.com/api/cpv/billing?productid=74&display_id=50028&bg=0&pctr=0.12313368983957217&ad_cj=JfOSR6bBB4wpqQfpC42YRYEJ3uQmeidatHYdb7iJx_GHzflxwLALXHVGqShx_snprjBTp8fGJy9Abn4WgeK-HzWwCOiMpqT0I_NeHGYJTVve2qjMMcSTpyYdjycxRNA6WcrIyq4K7r2SCqk3&ad_ci=JfOST6fRC8Vh-x_9U4KfUNlbmrx6LAhBuShOYb6QwPyCyPlllOtMBTMK8HR_-tyq-HIA8oSqaCkUO3ARneiqW2DnD-iOhpLwIvNaGGACQVrf2qTKI4_H8GcSiS40UIt2efHIpYxWv7OUX688mKM&discount=1&mtlaunch_city_id=1&bu=28&category_id=110&pos=1&mtuser_id64=0&pcvr=3.389830508474576E-5&client_version=6.5.1&mtdpid=a7b65cfaec00402197c2.1602919016.1.0.0&bottomprice=1.0&user_agent=pc&launch_city_id=0&mtcategory_ids=1&sver=2&AdExpPath=3-56-112,3-169-830,3-140-565,3-50-100,3-164-792,3-227-1297,3-12-28,18-274-1575,3-201-1096&bottomfen=100&mtuser_id=0&adsCtrStrategy=SearchPcSearchBaseline&page_city_id=0&entityplat=2&ad_v=2&mtadshop_id=637704073&mtpage_city_id=1&adidx=10&act=2&gather_index=1&item_index=-999",
+    "adsShowUrl": "https://mlog.dianping.com/api/cpv/action?productid=74&display_id=50028&bg=0&pctr=0.12313368983957217&ad_cj=JfOSR6bBB4wpqQfpC42YRYEJ3uQmeidatHYdb7iJx_GHzflxwLALXHVGqShx_snprjBTp8fGJy9Abn4WgeK-HzWwCOiMpqT0I_NeHGYJTVve2qjMMcSTpyYdjycxRNA6WcrIyq4K7r2SCqk3&ad_ci=JfOST6fRC8Vh-x_9U4KfUNlbmrx6LAhBuShOYb6QwPyCyPlllOtMBTMK8HR_-tyq-HIA8oSqaCkUO3ARneiqW2DnD-iOhpLwIvNaGGACQVrf2qTKI4_H8GcSiS40UIt2efHIpYxWv7OUX688mKM&discount=1&mtlaunch_city_id=1&bu=28&category_id=110&pos=1&mtuser_id64=0&pcvr=3.389830508474576E-5&client_version=6.5.1&mtdpid=a7b65cfaec00402197c2.1602919016.1.0.0&bottomprice=1.0&user_agent=pc&launch_city_id=0&mtcategory_ids=1&sver=2&AdExpPath=3-56-112,3-169-830,3-140-565,3-50-100,3-164-792,3-227-1297,3-12-28,18-274-1575,3-201-1096&bottomfen=100&mtuser_id=0&adsCtrStrategy=SearchPcSearchBaseline&page_city_id=0&entityplat=2&ad_v=2&mtadshop_id=637704073&mtpage_city_id=1&adidx=10&act=3&gather_index=1&item_index=-999"
+    },
+    {
+    "poiId": 1657889,
+    "frontImg": "https://img.meituan.net/600.600/msmerchant/77a71bed892575cc27ca07a15bddaaf9200191.jpg",
+    "title": "华彩酒店·中餐厅",
+    "avgScore": 5,
+    "allCommentNum": 729,
+    "address": "朝阳区广顺北大街16号望京华彩智选假日酒店4层",
+    "avgPrice": 60,
+    "dealList": [
+    {
+    "title": "100元代金券1张，可叠加",
+    "price": 80,
+    "soldCounts": 43
+    },
+    {
+    "title": "六人餐，包间免费",
+    "price": 308,
+    "soldCounts": 12
+    },
+    {
+    "title": "三人餐，提供免费WiFi",
+    "price": 218,
+    "soldCounts": 9
+    },
+    {
+    "title": "十人餐，包间免费",
+    "price": 560,
+    "soldCounts": 27
+    },
+    {
+    "title": "双人餐，提供免费WiFi",
+    "price": 106,
+    "soldCounts": 542
+    }
+    ],
+    "hasAds": false,
+    "adsClickUrl": "",
+    "adsShowUrl": ""
+    },
+    {
+    "poiId": 1646168,
+    "frontImg": "https://img.meituan.net/600.600/msmerchant/63f1d0c8522538a17b66e92247de3dfe1869917.jpg",
+    "title": "北喜日料海鲜自助（SOGO新馆店）",
+    "avgScore": 4.4,
+    "allCommentNum": 1030,
+    "address": "西城区宣武门外大街12号SOGO新馆5层",
+    "avgPrice": 177,
+    "dealList": [
+    {
+    "title": "A档单人日式自助",
+    "price": 190,
+    "soldCounts": 7594
+    },
+    {
+    "title": "B档单人日式自助",
+    "price": 258,
+    "soldCounts": 3422
+    },
+    {
+    "title": "C档单人日式自助",
+    "price": 348,
+    "soldCounts": 455
+    }
+    ],
+    "hasAds": false,
+    "adsClickUrl": "",
+    "adsShowUrl": ""
+    },
+    {
+    "poiId": 1459265375,
+    "frontImg": "https://qcloud.dpfile.com/pc/WVu5TyNIkD1saasUo7CoDCndrRa6s1FdEgsHmLHe8rl_D-A8g1qWwNUY9PchC1Id5g_3Oo7Z9EXqcoVvW9arsw.jpg",
+    "title": "南楼巷子烤肉",
+    "avgScore": 3.5,
+    "allCommentNum": 5,
+    "address": "顺义区首都机场生活区西平街一里1号",
+    "avgPrice": 48,
+    "dealList": [
+    {
+    "title": "100元代金券1张",
+    "price": 88,
+    "soldCounts": 24
+    },
+    {
+    "title": "美味四人烧烤套餐，包间免费",
+    "price": 198,
+    "soldCounts": 1
+    },
+    {
+    "title": "美味烧烤双人餐，包间免费",
+    "price": 98,
+    "soldCounts": 2
+    }
+    ],
+    "hasAds": true,
+    "adsClickUrl": "https://mlog.dianping.com/api/cpv/billing?productid=74&display_id=50028&bg=0&pctr=0.10467724867724867&ad_cj=f8dO_bBy28D9rR-bW_H5gbHZNc8MrsISN3kHv3T0vu0zIMh0g42Li2UGDHkpIBfStrluqesGJTOvE2QJxf8lb-fBV6ZSfJgKIcy6Qh43EF8F965eXC5Xk7PYhsh2aBGiT5Shq6490OqdF86idho&ad_ci=f8dO9bFi14m1_wePA_7wleGOcpZS-O0JOidTtnPjvf1yco0mwJy6lmhPRCd8KhDfurJ67btERm_kFDBczv05Z_OAB-4WP5gSEdHjShs1FF4Wp_UoO1peybKF15h9ZhU&discount=1&mtlaunch_city_id=1&bu=28&category_id=34303&pos=1&mtuser_id64=0&pcvr=1.565217391304348E-4&client_version=6.5.1&mtdpid=a7b65cfaec00402197c2.1602919016.1.0.0&bottomprice=1.0&user_agent=pc&launch_city_id=0&mtcategory_ids=1&sver=2&AdExpPath=3-56-112,3-169-830,3-140-565,3-50-100,3-164-792,3-227-1297,3-12-28,18-274-1575,3-201-1096&bottomfen=100&mtuser_id=0&adsCtrStrategy=SearchPcSearchBaseline&page_city_id=0&entityplat=2&ad_v=2&mtadshop_id=1459265375&mtpage_city_id=1&adidx=13&act=2&gather_index=1&item_index=-999",
+    "adsShowUrl": "https://mlog.dianping.com/api/cpv/action?productid=74&display_id=50028&bg=0&pctr=0.10467724867724867&ad_cj=f8dO_bBy28D9rR-bW_H5gbHZNc8MrsISN3kHv3T0vu0zIMh0g42Li2UGDHkpIBfStrluqesGJTOvE2QJxf8lb-fBV6ZSfJgKIcy6Qh43EF8F965eXC5Xk7PYhsh2aBGiT5Shq6490OqdF86idho&ad_ci=f8dO9bFi14m1_wePA_7wleGOcpZS-O0JOidTtnPjvf1yco0mwJy6lmhPRCd8KhDfurJ67btERm_kFDBczv05Z_OAB-4WP5gSEdHjShs1FF4Wp_UoO1peybKF15h9ZhU&discount=1&mtlaunch_city_id=1&bu=28&category_id=34303&pos=1&mtuser_id64=0&pcvr=1.565217391304348E-4&client_version=6.5.1&mtdpid=a7b65cfaec00402197c2.1602919016.1.0.0&bottomprice=1.0&user_agent=pc&launch_city_id=0&mtcategory_ids=1&sver=2&AdExpPath=3-56-112,3-169-830,3-140-565,3-50-100,3-164-792,3-227-1297,3-12-28,18-274-1575,3-201-1096&bottomfen=100&mtuser_id=0&adsCtrStrategy=SearchPcSearchBaseline&page_city_id=0&entityplat=2&ad_v=2&mtadshop_id=1459265375&mtpage_city_id=1&adidx=13&act=3&gather_index=1&item_index=-999"
+    },
+    {
+    "poiId": 63266615,
+    "frontImg": "http://p1.meituan.net/600.600/mogu/3559f4d40a45899f72bf1060d9763fc576161.jpg",
+    "title": "江上渔者巫山烤全鱼（通州万达店）",
+    "avgScore": 4.3,
+    "allCommentNum": 3983,
+    "address": "通州区新华南一街西门金街B区二层2-224号（万达广场5号门对面，电梯旁）",
+    "avgPrice": 51,
+    "dealList": [
+    {
+    "title": "烤鱼双人餐，有赠品，包间免费",
+    "price": 98,
+    "soldCounts": 1658
+    },
+    {
+    "title": "烤鱼双人餐，有赠品，包间免费",
+    "price": 98,
+    "soldCounts": 26103
+    },
+    {
+    "title": "海鲜大咖之烤鱼，建议4人使用",
+    "price": 299,
+    "soldCounts": 2508
+    }
+    ],
+    "hasAds": false,
+    "adsClickUrl": "",
+    "adsShowUrl": ""
+    },
+    {
+    "poiId": 37353,
+    "frontImg": "https://img.meituan.net/600.600/msmerchant/8d4c1053e0af9b1dbd0075f03dd2526f4187443.jpg",
+    "title": "蓝钻·国际美食海鲜自助百汇（西直门店）",
+    "avgScore": 4.3,
+    "allCommentNum": 8777,
+    "address": "海淀区高梁桥斜街59号中坤大厦内钟鼎楼食府3楼（近西直门凯德MALL）",
+    "avgPrice": 219,
+    "dealList": [
+    {
+    "title": "豪华海鲜自助午餐",
+    "price": 239,
+    "soldCounts": 596
+    },
+    {
+    "title": "通用午晚单人自助",
+    "price": 289,
+    "soldCounts": 4653
+    },
+    {
+    "title": "豪华海鲜自助晚餐",
+    "price": 259,
+    "soldCounts": 559
     }
     ],
     "hasAds": false,
