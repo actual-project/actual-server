@@ -1,0 +1,416 @@
+{
+    "status": 0,
+    "data": [
+    {
+    "id": 1502199,
+    "name": "蝎王府羊蝎子（西直门店）",
+    "score": 5,
+    "avgPrice": 68,
+    "address": "海淀区交大东路佰金广场一层（交通大学路口）",
+    "phone": "010-82163757",
+    "openTime": "周一至周日\n10:30-22:00",
+    "headIcon": "https://p0.meituan.net//bbia/ca65af16b23c2eb487671a7767b3fb7e100191.jpg@214w_120h_1e_1c",
+    "wifi": 1,
+    "park": "免费停车",
+    "lng": 116.34819,
+    "lat": 39.95033,
+    "brandId": 997313,
+    "jumpUrl": null,
+    "crumbs": null,
+    "cityId": 1,
+    "cityName": "北京",
+    "lowestPrice": 92,
+    "sold": 52839,
+    "firstCate": [
+    1,
+    20632,
+    20426
+    ],
+    "subCate": [
+    17,
+    20625,
+    20068,
+    20633,
+    20427,
+    20639
+    ],
+    "thridCate": [
+    21390
+    ],
+    "brandName": "蝎王府",
+    "cityPy": "bj"
+    },
+    {
+    "id": 367982,
+    "name": "京味斋·北京牡丹烤鸭（小西天店）",
+    "score": 5,
+    "avgPrice": 58,
+    "address": "海淀区文慧园北路8号庆亚大厦B座",
+    "phone": "010-62275381",
+    "openTime": "周一至周日\n10:30-21:30",
+    "headIcon": "https://img.meituan.net//msmerchant/589d62a2ee68c56a656483e7b0d4dedf744912.png@214w_120h_1e_1c",
+    "wifi": 0,
+    "park": "有停车位",
+    "lng": 116.361729,
+    "lat": 39.955234,
+    "brandId": 179128,
+    "jumpUrl": null,
+    "crumbs": null,
+    "cityId": 0,
+    "cityName": null,
+    "lowestPrice": 96,
+    "sold": 70081,
+    "firstCate": [
+    1,
+    20632,
+    20426,
+    20557
+    ],
+    "subCate": [
+    20560,
+    20625,
+    20068,
+    20150,
+    20633,
+    20427,
+    21533,
+    20639
+    ],
+    "thridCate": [
+    59
+    ],
+    "brandName": "京味斋",
+    "cityPy": null
+    },
+    {
+    "id": 1467844,
+    "name": "福口居（北太平庄店）",
+    "score": 5,
+    "avgPrice": 63,
+    "address": "海淀区北太平庄北三环中路40号（近国美）",
+    "phone": "010-62382412",
+    "openTime": "周一至周日\n11:00-14:30\n16:00-22:30",
+    "headIcon": "https://img.meituan.net//msmerchant/a15b1e24ed8b36ebefde1c925ed6c875117239.jpg@214w_120h_1e_1c",
+    "wifi": 1,
+    "park": "免费停车",
+    "lng": 116.363456,
+    "lat": 39.967347,
+    "brandId": 853523,
+    "jumpUrl": null,
+    "crumbs": null,
+    "cityId": 1,
+    "cityName": "北京",
+    "lowestPrice": 90,
+    "sold": 56335,
+    "firstCate": [
+    1,
+    20632,
+    20426
+    ],
+    "subCate": [
+    17,
+    20625,
+    20633,
+    20427,
+    20639
+    ],
+    "thridCate": [
+    20746
+    ],
+    "brandName": "福口居",
+    "cityPy": "bj"
+    },
+    {
+    "id": 4122290,
+    "name": "重八牛府之初入江湖（双榆树店）",
+    "score": 5,
+    "avgPrice": 81,
+    "address": "海淀区双榆树东里15号一零一中学西门西行30米",
+    "phone": "010-82116899/13718310611",
+    "openTime": "周一至周日\n10:00-02:00",
+    "headIcon": "https://img.meituan.net//msmerchant/aaa9b7b29138cd3afc423a5115f8d9fc118347.jpg@214w_120h_1e_1c",
+    "wifi": 1,
+    "park": "免费停车",
+    "lng": 116.327079,
+    "lat": 39.968697,
+    "brandId": 0,
+    "jumpUrl": null,
+    "crumbs": null,
+    "cityId": 0,
+    "cityName": null,
+    "lowestPrice": 88,
+    "sold": 61436,
+    "firstCate": [
+    1,
+    20632,
+    20426,
+    20557
+    ],
+    "subCate": [
+    20560,
+    17,
+    20625,
+    20068,
+    20644,
+    20633,
+    20427,
+    20639
+    ],
+    "thridCate": [
+    20562,
+    20717
+    ],
+    "brandName": "",
+    "cityPy": null
+    },
+    {
+    "id": 50791398,
+    "name": "纽约客美式餐厅（新中关购物中心店）",
+    "score": 5,
+    "avgPrice": 121,
+    "address": "海淀区中关村大街19号新中关购物中心F2（海淀黄庄站C口）",
+    "phone": "010-62684896",
+    "openTime": "周一至周日\n10:30-22:00",
+    "headIcon": "https://p1.meituan.net//bbia/50791398_1591613739069.jpeg@214w_120h_1e_1c",
+    "wifi": 1,
+    "park": "免费提供100个停车位",
+    "lng": 116.315922,
+    "lat": 39.978177,
+    "brandId": 0,
+    "jumpUrl": null,
+    "crumbs": null,
+    "cityId": 1,
+    "cityName": "北京",
+    "lowestPrice": 69,
+    "sold": 90657,
+    "firstCate": [
+    1,
+    20632,
+    20426,
+    20557
+    ],
+    "subCate": [
+    20625,
+    20594,
+    35,
+    20633,
+    20427,
+    20572,
+    20734,
+    20639
+    ],
+    "thridCate": [
+    20806
+    ],
+    "brandName": "",
+    "cityPy": "bj"
+    },
+    {
+    "id": 42081214,
+    "name": "韩时烤肉（枫蓝国际购物中心店）",
+    "score": 4.7,
+    "avgPrice": 69,
+    "address": "海淀区西直门北大街32号枫蓝国际购物中心2层",
+    "phone": "010-62266258",
+    "openTime": "周一至周日\n10:30-21:30",
+    "headIcon": "https://img.meituan.net//msmerchant/ebcee74bdaa44dcbb85cbc56fc510b98119613.png@214w_120h_1e_1c",
+    "wifi": 1,
+    "park": "",
+    "lng": 116.356607,
+    "lat": 39.952606,
+    "brandId": 1145685,
+    "jumpUrl": null,
+    "crumbs": null,
+    "cityId": 1,
+    "cityName": "北京",
+    "lowestPrice": 92,
+    "sold": 91479,
+    "firstCate": [
+    1,
+    20632,
+    20426,
+    20557
+    ],
+    "subCate": [
+    20625,
+    21010,
+    20068,
+    20597,
+    54,
+    21446,
+    20633,
+    20682,
+    20427,
+    20639
+    ],
+    "thridCate": [
+    20815
+    ],
+    "brandName": "韩时烤肉",
+    "cityPy": "bj"
+    },
+    {
+    "id": 41457808,
+    "name": "紫光园（西直门店）",
+    "score": 4.6,
+    "avgPrice": 69,
+    "address": "西城区西直门内大街冠英园西区6号楼1门（南草厂街交叉口向南100米路东）",
+    "phone": "010-66562588",
+    "openTime": "周一至周日\n06:00-09:30\n10:00-14:00\n17:00-21:00",
+    "headIcon": "https://img.meituan.net//msmerchant/ef6023ff71ddb42c45596a9aefb58dbe916089.png@214w_120h_1e_1c",
+    "wifi": 1,
+    "park": "",
+    "lng": 116.364313,
+    "lat": 39.939095,
+    "brandId": 31015,
+    "jumpUrl": null,
+    "crumbs": null,
+    "cityId": 1,
+    "cityName": "北京",
+    "lowestPrice": 9.99,
+    "sold": 53849,
+    "firstCate": [
+    1,
+    20632,
+    20426,
+    20557
+    ],
+    "subCate": [
+    20560,
+    20625,
+    20068,
+    20150,
+    20633,
+    20427,
+    21533,
+    20639
+    ],
+    "thridCate": [
+    59
+    ],
+    "brandName": "紫光园",
+    "cityPy": "bj"
+    },
+    {
+    "id": 6817467,
+    "name": "汉唐春秋（西安食府）",
+    "score": 5,
+    "avgPrice": 93,
+    "address": "西城区新街口南大街正觉胡同13号",
+    "phone": "010-66176740",
+    "openTime": "周一至周日\n10:30-20:30",
+    "headIcon": "https://p1.meituan.net//mogu/1446eba84d6c48b61deb899109e7660944067.jpg@214w_120h_1e_1c",
+    "wifi": 1,
+    "park": "",
+    "lng": 116.37421,
+    "lat": 39.94001,
+    "brandId": 0,
+    "jumpUrl": null,
+    "crumbs": null,
+    "cityId": 1,
+    "cityName": "北京",
+    "lowestPrice": 39.9,
+    "sold": 3920,
+    "firstCate": [
+    1,
+    20426
+    ],
+    "subCate": [
+    20625,
+    58,
+    21533,
+    20639
+    ],
+    "thridCate": [
+    21327
+    ],
+    "brandName": "",
+    "cityPy": "bj"
+    },
+    {
+    "id": 4247274,
+    "name": "木屋烧烤（牡丹园店）",
+    "score": 4.6,
+    "avgPrice": 67,
+    "address": "海淀区花园路甲2号院同观商业中心1层",
+    "phone": "010-56232829",
+    "openTime": "周一至周日\n10:00-03:00",
+    "headIcon": "https://img.meituan.net//msmerchant/ef6023ff71ddb42c45596a9aefb58dbe916089.png@214w_120h_1e_1c",
+    "wifi": 1,
+    "park": "有停车位",
+    "lng": 116.366115,
+    "lat": 39.980037,
+    "brandId": 27864,
+    "jumpUrl": null,
+    "crumbs": null,
+    "cityId": 1,
+    "cityName": "北京",
+    "lowestPrice": 8.9,
+    "sold": 50974,
+    "firstCate": [
+    1,
+    20632,
+    20426,
+    20557
+    ],
+    "subCate": [
+    20625,
+    21010,
+    54,
+    20633,
+    20427,
+    20639
+    ],
+    "thridCate": [
+    20814
+    ],
+    "brandName": "木屋烧烤",
+    "cityPy": "bj"
+    },
+    {
+    "id": 262906,
+    "name": "德川家日本料理（中关村店）",
+    "score": 4.7,
+    "avgPrice": 214,
+    "address": "海淀区中关村南大街甲12号寰太大厦2楼（理工大学东门对面，农科院西门）",
+    "phone": "010-62189060/62189061",
+    "openTime": "周一至周日 11:00-14:00 17:00-22:00",
+    "headIcon": "https://img.meituan.net//msmerchant/ab97c12d6b814fec34c05472aed29b0c254928.jpg@214w_120h_1e_1c",
+    "wifi": 1,
+    "park": "",
+    "lng": 116.323599,
+    "lat": 39.959164,
+    "brandId": 535452,
+    "jumpUrl": null,
+    "crumbs": null,
+    "cityId": 1,
+    "cityName": "北京",
+    "lowestPrice": 213,
+    "sold": 46575,
+    "firstCate": [
+    1,
+    20632,
+    20426,
+    20557
+    ],
+    "subCate": [
+    20625,
+    20578,
+    20068,
+    40,
+    20633,
+    20059,
+    20427,
+    28,
+    20639
+    ],
+    "thridCate": [
+    21335,
+    20583,
+    20749
+    ],
+    "brandName": "德川家",
+    "cityPy": "bj"
+    }
+    ]
+    }

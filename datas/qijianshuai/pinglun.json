@@ -1,5 +1,5 @@
 {    "status": 200,
-    "message": "成功",
+    "message": "评论成功",
     "data": {
         "tags": [
             {
@@ -180,7 +180,7 @@
                 "readCnt": 1821,
                 "hilignt": "",
                 "userLevel": 0,
-                "userId": "0",
+                "userId": "777777777",
                 "uType": 2,
                 "star": 40,
                 "quality": false,
@@ -250,7 +250,7 @@
                 "readCnt": 1621,
                 "hilignt": "",
                 "userLevel": 0,
-                "userId": "0",
+                "userId": "66666666",
                 "uType": 2,
                 "star": 20,
                 "quality": false,
@@ -303,7 +303,7 @@
                 "readCnt": 50,
                 "hilignt": "",
                 "userLevel": 0,
-                "userId": "2859500756",
+                "userId": "2859506656",
                 "uType": 2,
                 "star": 50,
                 "quality": false,

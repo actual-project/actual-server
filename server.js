@@ -18,7 +18,9 @@ const buying = require('./datas/zirui/buying.json')
 const getPoiList = require('./datas/yuru/getPoiList.json')
 //祁建帅
 const pinglun = require('./datas/qijianshuai/pinglun.json')
+const shopLike = require('./datas/qijianshuai/shopLike.json')
 const fooddetail = require('./datas/qijianshuai/shopdetail.json')
+const leftLike = require('./datas/qijianshuai/islike.json')
 const app = new express()
 //暴露静态资源文件
 app.use(express.static(path.resolve(__dirname,'public')))
@@ -137,6 +139,14 @@ app.get('/pinglun',(req,res)=>{
 //美食详情
 app.get('/fooddetail',(req,res)=>{
   res.status(200).json(fooddetail)
+})
+//猜你喜欢商家
+app.get('/shopLike',(req,res)=>{
+  res.status(200).json(shopLike)
+})
+//获取右侧猜你喜欢
+app.get('/leftLike',(req,res)=>{
+  res.status(200).json(leftLike)
 })
 app.listen('3000',()=>{
   console.log('服务以启动');
