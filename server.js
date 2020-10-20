@@ -39,20 +39,26 @@ app.use(express.json())
 app.post('/login',(req,res)=>{
     //数据库存在的数据{username:'cat',password:123}
     let {username,password} = req.body;
+    console.log('登录',username,password);
     (async (username)=>{
       try{
         let userInfo = await userModle.findOne({username})
+          console.log(userInfo)
             if(userInfo){
                 if(userInfo.password != password){
                     res.send({
-                        code:502,
-                        message:'密码错误'
+                        data:{
+                          code:502,
+                          message:'密码错误'
+                        }
                     })
                     }else{
                         res.send({
+                          data:{
                             code:200,
                             message:'登录成功',
                             userInfo:userInfo
+                          }
                         })
                     }        
             }else{
@@ -73,20 +79,16 @@ app.post('/login',(req,res)=>{
 //注册请求
 app.post('/register',async(req,res)=>{
     let {username,password} = req.body;
-    console.log(username,password);
         try {
             let userInfo = await userModle.findOne({username})
             if(userInfo){
                 res.send({
                     code:402,
-                   
                     data:'用户已经存在'
                 })
             }else{
                 let userInfo = await userModle.create({username,password})
-                console.log('111',userInfo);
                 res.send({
-                    
                     data:{
                       code:200,
                       message:'成功注册',
