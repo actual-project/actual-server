@@ -73,19 +73,25 @@ app.post('/login',(req,res)=>{
 //注册请求
 app.post('/register',async(req,res)=>{
     let {username,password} = req.body;
+    console.log(username,password);
         try {
             let userInfo = await userModle.findOne({username})
             if(userInfo){
                 res.send({
                     code:402,
-                    message:'用户已经存在',
+                   
+                    data:'用户已经存在'
                 })
             }else{
                 let userInfo = await userModle.create({username,password})
+                console.log('111',userInfo);
                 res.send({
-                    code:200,
-                    message:'成功注册',
-                    userInfo
+                    
+                    data:{
+                      code:200,
+                      message:'成功注册',
+                      userInfo
+                    }
                 })
             }
         } catch (error) {
