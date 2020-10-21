@@ -18,6 +18,7 @@ const buying = require('./datas/zirui/buying.json')
 const getPoiList = require('./datas/yuru/getPoiList.json')
 //祁建帅
 const pinglun = require('./datas/qijianshuai/pinglun.json')
+const pinglun2 = require('./datas/qijianshuai/pinglun2.json')
 const shopLike = require('./datas/qijianshuai/shopLike.json')
 const fooddetail = require('./datas/qijianshuai/shopdetail.json')
 const leftLike = require('./datas/qijianshuai/islike.json')
@@ -142,7 +143,13 @@ app.get('/getpoilist',(req,res)=>{
 })
 //评论
 app.get('/pinglun',(req,res)=>{
-  res.status(200).json(pinglun)
+  let {page} = req.query
+  // console.log(req.query)
+  if(page==1){
+    res.status(200).json(pinglun)
+  }else{
+    res.status(200).json(pinglun2)
+  }
 })
 //美食详情
 app.get('/fooddetail',(req,res)=>{
