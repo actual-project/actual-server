@@ -1,0 +1,12 @@
+{
+    
+    "message": "成功",
+    "data":{
+        "code": 200,
+        "codeUrl": "weixin://wxpay/bizpayurl?pr=P0aPBJK",
+        "orderId": 10,
+        "totalFee": 23996,
+        "resultCode": "SUCCESS" 
+        },
+    "ok":true
+}

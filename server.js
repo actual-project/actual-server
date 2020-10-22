@@ -22,6 +22,7 @@ const pinglun2 = require('./datas/qijianshuai/pinglun2.json')
 const shopLike = require('./datas/qijianshuai/shopLike.json')
 const fooddetail = require('./datas/qijianshuai/shopdetail.json')
 const leftLike = require('./datas/qijianshuai/islike.json')
+const tijiao = require('./datas/qijianshuai/tijiao.json')
 const app = new express()
 //暴露静态资源文件
 app.use(express.static(path.resolve(__dirname,'public')))
@@ -163,6 +164,12 @@ app.get('/shopLike',(req,res)=>{
 app.get('/leftLike',(req,res)=>{
   res.status(200).json(leftLike)
 })
+//订单支付成功的请求
+app.get('/tijiao',async(req,res)=>{
+  console.log(req.query)
+  res.status(200).json(tijiao)
+})
 app.listen('3000',()=>{
   console.log('服务以启动');
 })
+
