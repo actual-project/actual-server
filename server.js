@@ -16,6 +16,7 @@ const persnal = require('./datas/zirui/persnal.json')
 const buying = require('./datas/zirui/buying.json')
 //王玉茹
 const getPoiList = require('./datas/yuru/getPoiList.json')
+const catagory = require('./datas/yuru/catagory.json')
 //祁建帅
 const pinglun = require('./datas/qijianshuai/pinglun.json')
 const shopLike = require('./datas/qijianshuai/shopLike.json')
@@ -156,6 +157,11 @@ app.get('/shopLike',(req,res)=>{
 app.get('/leftLike',(req,res)=>{
   res.status(200).json(leftLike)
 })
+//获取食物中选择区域的数据
+app.get('/catagory',(req,res)=>{
+  res.status(200).json(catagory)
+})
 app.listen('3000',()=>{
   console.log('服务以启动');
 })
+
