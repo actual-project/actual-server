@@ -19,9 +19,11 @@ const getPoiList = require('./datas/yuru/getPoiList.json')
 const catagory = require('./datas/yuru/catagory.json')
 //祁建帅
 const pinglun = require('./datas/qijianshuai/pinglun.json')
+const pinglun2 = require('./datas/qijianshuai/pinglun2.json')
 const shopLike = require('./datas/qijianshuai/shopLike.json')
 const fooddetail = require('./datas/qijianshuai/shopdetail.json')
 const leftLike = require('./datas/qijianshuai/islike.json')
+const tijiao = require('./datas/qijianshuai/tijiao.json')
 const app = new express()
 //暴露静态资源文件
 app.use(express.static(path.resolve(__dirname,'public')))
@@ -143,7 +145,13 @@ app.get('/getpoilist',(req,res)=>{
 })
 //评论
 app.get('/pinglun',(req,res)=>{
-  res.status(200).json(pinglun)
+  let {page} = req.query
+  // console.log(req.query)
+  if(page==1){
+    res.status(200).json(pinglun)
+  }else{
+    res.status(200).json(pinglun2)
+  }
 })
 //美食详情
 app.get('/fooddetail',(req,res)=>{
@@ -157,9 +165,16 @@ app.get('/shopLike',(req,res)=>{
 app.get('/leftLike',(req,res)=>{
   res.status(200).json(leftLike)
 })
+<<<<<<< HEAD
 //获取食物中选择区域的数据
 app.get('/catagory',(req,res)=>{
   res.status(200).json(catagory)
+=======
+//订单支付成功的请求
+app.get('/tijiao',async(req,res)=>{
+  console.log(req.query)
+  res.status(200).json(tijiao)
+>>>>>>> 74ad3d11fc94b563d058c3f6733bec52a29c70df
 })
 app.listen('3000',()=>{
   console.log('服务以启动');
