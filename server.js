@@ -165,18 +165,15 @@ app.get('/shopLike',(req,res)=>{
 app.get('/leftLike',(req,res)=>{
   res.status(200).json(leftLike)
 })
-<<<<<<< HEAD
 //获取食物中选择区域的数据
 app.get('/catagory',(req,res)=>{
   res.status(200).json(catagory)
-=======
+})
 //订单支付成功的请求
 app.get('/tijiao',async(req,res)=>{
   console.log(req.query)
   res.status(200).json(tijiao)
->>>>>>> 74ad3d11fc94b563d058c3f6733bec52a29c70df
 })
 app.listen('3000',()=>{
   console.log('服务以启动');
 })
-
